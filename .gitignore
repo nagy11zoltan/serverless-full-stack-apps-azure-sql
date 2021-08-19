@@ -267,3 +267,5 @@ __pycache__/
 *.zip
 transit/
 SampleData/
+/database/notebooks
+/cloud shell info.txt
