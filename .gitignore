@@ -269,3 +269,4 @@ transit/
 SampleData/
 /database/notebooks
 /cloud shell info.txt
+/azure-function/dotnet/GetBusData.sln
